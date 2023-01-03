@@ -9,5 +9,6 @@ public class Main {
         System.out.println(z==num);
 //        System.out.println("加入一行新代码");
         System.out.println("second");
+        System.out.println("third");
     }
 }
